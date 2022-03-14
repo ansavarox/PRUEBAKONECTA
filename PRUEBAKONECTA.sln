@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRUEBAKONECTA", "PRUEBAKONECTA\PRUEBAKONECTA.csproj", "{1FFABDBF-A32C-4F75-AFA8-F4CE67BE7CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRUEBAKONECTA.Logic", "PRUEBAKONECTA.Logic\PRUEBAKONECTA.Logic.csproj", "{3995ED6E-9B75-4774-AF78-38A97ADAD193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFABDBF-A32C-4F75-AFA8-F4CE67BE7CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFABDBF-A32C-4F75-AFA8-F4CE67BE7CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFABDBF-A32C-4F75-AFA8-F4CE67BE7CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFABDBF-A32C-4F75-AFA8-F4CE67BE7CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3995ED6E-9B75-4774-AF78-38A97ADAD193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3995ED6E-9B75-4774-AF78-38A97ADAD193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3995ED6E-9B75-4774-AF78-38A97ADAD193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3995ED6E-9B75-4774-AF78-38A97ADAD193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C872E8-C875-42DA-9E3A-247C59C64CEB}
+	EndGlobalSection
+EndGlobal
